@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+        <string name="app_name">ex_5</string>
+        <string name="add_Btn">Add Task</string>
+        <string name="edit_message">Description</string>
+        <string name="create_Btn">Create</string>
+        <string name="close_Btn">Close</string>
+        <string name="title_activity_notification_receivereceiver">NotificationReceiverActivity</string>
+        <string name="hello_world">Hello world!</string>
+        <string name="action_settings">Settings</string>
+
+
+</resources>
